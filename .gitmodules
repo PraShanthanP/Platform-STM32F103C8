@@ -1,0 +1,12 @@
+[submodule "Platform-STM32F103C8"]
+	path = Platform-STM32F103C8
+	url = https://github.com/PraShanthanP/Platform-STM32F103C8.git
+[submodule "RTOS"]
+	path = RTOS
+	url = https://github.com/PraShanthanP/RTOS
+[submodule "Application"]
+	path = Application
+	url = https://github.com/PraShanthanP/Application
+[submodule "STM32F10x_StdPeriph_Driver"]
+	path = STM32F10x_StdPeriph_Driver
+	url = https://github.com/PraShanthanP/STM32F10x_StdPeriph_Driver
